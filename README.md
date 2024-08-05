@@ -43,6 +43,14 @@ Pipelines are essential for deploying complex models. In this exercise, you will
 - Learn about the importance of pipelines
 - Build and use pipelines for data preprocessing and model training
 
+## Cross-Validation
+
+**File**: `exercise-cross-validation.ipynb`
+
+Cross-validation provides a better way to test your models. This notebook covers:
+- The concept of cross-validation
+- Implementing cross-validation to evaluate model performance
+
 ## Contributing
 
 If you have any suggestions or improvements, feel free to create a pull request or open an issue. Contributions are welcome!
