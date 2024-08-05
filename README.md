@@ -35,6 +35,14 @@ This notebook covers techniques for dealing with non-numeric data. You will lear
 - Ordinal encoding
 - Handling high cardinality
 
+## Pipelines
+
+**File**: `exercise-pipelines.ipynb`
+
+Pipelines are essential for deploying complex models. In this exercise, you will:
+- Learn about the importance of pipelines
+- Build and use pipelines for data preprocessing and model training
+
 ## Contributing
 
 If you have any suggestions or improvements, feel free to create a pull request or open an issue. Contributions are welcome!
