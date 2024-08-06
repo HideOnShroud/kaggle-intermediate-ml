@@ -51,6 +51,22 @@ Cross-validation provides a better way to test your models. This notebook covers
 - The concept of cross-validation
 - Implementing cross-validation to evaluate model performance
 
+## XGBoost
+
+**File**: `exercise-xgboost.ipynb`
+
+XGBoost is a powerful modeling technique for structured data. In this exercise, you will:
+- Understand the basics of XGBoost
+- Train and evaluate an XGBoost model
+
+## Data Leakage
+
+**File**: `exercise-data-leakage.ipynb`
+
+Data leakage can subtly ruin your models. This notebook covers:
+- Identifying data leakage
+- Strategies to prevent and fix data leakage
+
 ## Contributing
 
 If you have any suggestions or improvements, feel free to create a pull request or open an issue. Contributions are welcome!
