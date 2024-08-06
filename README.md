@@ -2,6 +2,8 @@
 
 This repository contains a series of Kaggle Notebooks created while progressing through the Kaggle Intermediate Machine Learning course. These exercises are designed to enhance your machine learning skills by tackling more complex problems and advanced techniques.
 
+![Certificate](/Guga%20Natroshvili%20-%20Intermediate%20Machine%20Learning.png)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
